@@ -1,7 +1,17 @@
 [{
     "name": "Atharva Waze",
-    "message": "Happy Birthday Bhava! Tuch ekch chava!!",
+    "message": "Happy Birthday Bhava! Tuch ekch chava!! Zhala 18 ekdacha !! Thoda responsible ho aata bc !😂😂❤ #lospolloshermanos #gamer #coder #badlapur ",
     "image_url": "assets/img/atharva.jpg",
+    "headphones": true,
+    "audio_urls": [
+        "assets/audio/atharva.mp3"
+
+    ]
+},
+ {
+    "name": "Kedar Shere",
+    "message": "Happy birthday Bro💩, today is a special day, the day you finally got out inside of your mom’s belly to visit Badlapur 😛.. It's a quarantine 18 so Enjoy your day!!!  Have a great year Ahead 🎉🎈",
+    "image_url": "assets/img/kedar.jpg",
     "headphones": true,
     "audio_urls": [
         "assets/audio/atharva.mp3"
