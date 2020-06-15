@@ -17,5 +17,55 @@
         "assets/audio/atharva.mp3"
 
     ]
+},
+  {
+    "name": "Aryan Anvekar",
+    "message": "Happy birthday Siddharth ❤️🙏 May Hanuman ji bless you Jaldi utha kar vaanar😶",
+    "image_url": "assets/img/aryan.jpeg",
+    "headphones": true,
+    "audio_urls": [
+        "assets/audio/atharva.mp3"
+
+    ]
+},
+  {
+    "name": "Ria Patole",
+    "message": "Happyy birthdayyyy sidhuuuuuuu! It's amazing the number of years we have known each other..As kids, we'd never leave each other's side! I'm glad we're no different now, all these years later! I still remember the lil you and the games we played..and I want you to know that I've always looked up to you.. Just cuz you're taller than me ofcourse :P.. Even If you have become 18 , you'll always be lil 'sidu' for me. Happiessstt birthday sid ! May god bless you with lots of happiness and success!♥️",
+    "image_url": "assets/img/ria.jpeg",
+    "headphones": true,
+    "audio_urls": [
+        "assets/audio/atharva.mp3"
+
+    ]
+},
+  {
+    "name": "Kedar Shere",
+    "message": "Happy birthday Bro💩, today is a special day, the day you finally got out inside of your mom’s belly to visit Badlapur 😛.. It's a quarantine 18 so Enjoy your day!!!  Have a great year Ahead 🎉🎈",
+    "image_url": "assets/img/kedar.jpg",
+    "headphones": true,
+    "audio_urls": [
+        "assets/audio/atharva.mp3"
+
+    ]
+},
+  {
+    "name": "Kedar Shere",
+    "message": "Happy birthday Bro💩, today is a special day, the day you finally got out inside of your mom’s belly to visit Badlapur 😛.. It's a quarantine 18 so Enjoy your day!!!  Have a great year Ahead 🎉🎈",
+    "image_url": "assets/img/kedar.jpg",
+    "headphones": true,
+    "audio_urls": [
+        "assets/audio/atharva.mp3"
+
+    ]
+},
+  {
+    "name": "Kedar Shere",
+    "message": "Happy birthday Bro💩, today is a special day, the day you finally got out inside of your mom’s belly to visit Badlapur 😛.. It's a quarantine 18 so Enjoy your day!!!  Have a great year Ahead 🎉🎈",
+    "image_url": "assets/img/kedar.jpg",
+    "headphones": true,
+    "audio_urls": [
+        "assets/audio/atharva.mp3"
+
+    ]
 }
 ]
