@@ -47,6 +47,16 @@
         "assets/audio/atharva.mp3"
 
     ]
+},
+   {
+    "name": "Bayonetta",
+    "message": "Happy Birthday babe!!",
+    "image_url": "assets/img/heart.jpg",
+    "headphones": true,
+    "audio_urls": [
+        "assets/audio/bayonetta.mp3"
+
+    ]
 }
 
 ]
