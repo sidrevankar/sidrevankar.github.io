@@ -108,13 +108,23 @@
 
     ]
 },
+     {
+    "name": "Vedang Tandel",
+    "message": "Vadhdivsachya Hardik Subhecha Siddharth bhau revankar hyanna!",
+    "image_url": "assets/img/vedang.jpeg",
+    "headphones": true,
+    "audio_urls": [
+      
+
+    ]
+},
     {
     "name": "Pranali Parab",
     "message": "Wish you many many happy returns of the day Siddharth 💖 may u have long & great life ahead🤩🥳🎂🎂 Complete ur all wishes and reach at the top of Success 💫🤟🏻",
     "image_url": "assets/img/pranali.jpeg",
     "headphones": true,
     "audio_urls": [
-    
+        "assets/audio/pranali.mp4"    
 
     ]
 }
