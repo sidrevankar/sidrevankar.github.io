@@ -24,7 +24,7 @@
     "image_url": "assets/img/aryan.jpeg",
     "headphones": true,
     "audio_urls": [
-        "assets/audio/atharva.mp3"
+        "assets/audio/aryan.ogg"
 
     ]
 },
@@ -34,7 +34,7 @@
     "image_url": "assets/img/ria.jpeg",
     "headphones": true,
     "audio_urls": [
-        "assets/audio/atharva.mp3"
+        "assets/audio/ria.mpeg"
 
     ]
 },
@@ -57,6 +57,36 @@
         "assets/audio/bayonetta.mp4"
 
     ]
-}
+},
+    {
+    "name": "Tanay More",
+    "message": "Hey SID !!On your special day..I wish that you decode all your achievements and create wonders and best luck for the real game world that is Life❤️lots of love..Happy birthday champ !!🍺",
+    "image_url": "assets/img/tanay.jpeg",
+    "headphones": true,
+    "audio_urls": [
+        "assets/audio/tanay.mpeg"
+
+    ]
+},
+     {
+    "name": "Sayli Tawte",
+    "message": "Looking forward to many more years of friendship and birthdays with you!✨ Wish you a fab birthday, Siddharth!❤️",
+    "image_url": "assets/img/sayli.jpeg",
+    "headphones": true,
+    "audio_urls": [
+        "assets/audio/sayli.ogg"
+
+    ]
+},
+      {
+    "name": "Harshal Chalke",
+    "message": "जन्म दिनाच्या हार्दिक शुभेच्छा भोदी 🎂🥳🎊🎊 Bhai last 10 years of friendship ... 😇 Lahan pani kay kand kelet . I still remember... 😂😂 Tu ani vedant pratham chya ghari... 🤣🤣🤣😙  .. Lockdown suru kay zhala Tu tar phitnes  phrik Zhalays 💪🏻 I still remember that 22 km cycling drive to powai... That was lit mann 🚴🚴 Ani lockdown samplya samplya party de lagech 😂😂 Once again Happy Birthday and God bless you... Majha Ashirwad ahe tujhya pathishi ✋🏻",
+    "image_url": "assets/img/harshal.jpeg",
+    "headphones": true,
+    "audio_urls": [
+        
+
+    ]
+},
 
 ]
